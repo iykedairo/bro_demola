@@ -1,0 +1,280 @@
+
+a[href] {
+    color: #7fffd4;
+    font-family: "Courier New";
+}
+a[href]:hover {
+    color: #ffa500;
+}
+.icons img[src] {
+    border-radius: 14px;
+    float: right;
+    height: 50px;
+    padding: 15px;
+    width: 50px;
+}
+.trademark {
+    font-size: 16px;
+}
+div#header {
+    color: #ffffff;
+    font-size: 42px;
+    left: 174px;
+    position: relative;
+	text-shadow: -5px 0px #a0a0a0;
+}
+.header-plus {
+    font-size: 20px;
+    left: 250px;
+    position: relative;
+    top: -13px;
+}
+#comment {
+    display: block;
+    position: absolute;
+    right: 11px;
+    top: 46px;
+}
+#comment button {
+    background-color: #ccccc0;
+    position: absolute;
+    top: 115px;
+    z-index: 9;
+}
+#comment input {
+    position: absolute;
+    right: 68px;
+    top: 113px;
+    height: 28px;
+	-webkit-box-shadow: inset #999 4px -4px 2px 0;
+	-moz-box-shadow: inset #999 4px -4px 2px 0;
+	box-shadow: inset #999 4px -4px 2px 0;
+}
+textarea {
+    background-color: #ebebeb;
+    height: 50px;
+    position: absolute;
+    right: 0;
+    width: 212px;
+}
+#comment h3 {
+    color: #ffffff;
+}
+div#logo, img[src$="photos/1.jpg"] {
+    background-color: #000000;
+    border-radius: 100%;
+    height: 150px;
+    left: 0;
+    position: absolute;
+    top: 39px;
+    width: 159px;
+}
+body {
+    background-color: #123456;
+    height: 1764px;
+    position: relative;
+    width: 100%;
+}
+#myHoldAll {
+    background-color: #008080;
+    border-radius: 15px 15px 0 0;
+    bottom: 0;
+    height: 1403px;
+    position: absolute;
+    width: 100%;
+}
+h1#description {
+    color: #c6dae3;
+    display: list-item;
+    font-family: icon;
+    left: 70px;
+    position: absolute;
+    top: 33px;
+}
+h1#description small {
+    color: #fffafa;
+	font-family:cursive;
+}
+#accordion {
+    font-weight: 700;
+    position: absolute;
+    text-align: justify;
+    top: 38px;
+    width: 649px;
+    z-index: 7;
+}
+#accordion h1 {
+    display: inline;
+    font-size: 40px;
+    line-height: 2;
+}
+#accordion h2 {
+    background-color: #008080;
+    color: #fffafa;
+    display: inline;
+    font-family: monospace;
+    font-weight: lighter;
+    line-height: 2;
+    text-align: justify;
+}
+#accordion button {
+    background-color: #0000ff;
+    border: 2px solid #008080;
+    border-radius: 20px;
+    font-size: 16px;
+}
+.panel-body {
+    background-color: #008080;
+    color: #ffdab9;
+    font-family: Lucida Granda;
+    font-size: 20px;
+    font-weight: lighter;
+    line-height: 2;
+    text-align: justify;
+}
+small#center {
+    color: #fffafa;
+}
+div[span] {
+    color: #ffffff;
+    float: left;
+    font-size: 13px;
+    height: 100px;
+    left: 175px;
+    position: relative;
+    text-decoration: none;
+    top: 207px;
+    width: 200px;
+}
+div.contact img[src] {
+    height: 39px;
+    left: 0;
+    position: absolute;
+    top: -100px;
+    width: 71px;
+}
+nav#navbarExample a:hover {
+    color: #ffa500;
+}
+nav#navbarExample {
+    background-color: #123456;
+    border-radius: 0;
+    height: 10px;
+    position: absolute;
+    top: 362px;
+    width: 100%;
+    z-index: 10;
+}
+.carousel-inner img[src] {
+    height: 340px;
+    width: 649px;
+}
+div#bestCarsCarousel {
+    bottom: 303px;
+    left: 0;
+    position: absolute;
+    width: 649px;
+}
+footer {
+    background-color: #123456;
+    bottom: 0;
+    height: 300px;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+}
+#footer-text, #bottom {
+    bottom: 36px;
+    font-size: 0.9em;
+    left: 492px;
+    position: absolute;
+}
+footer a {
+    color: #2ca9e4;
+    text-decoration: none;
+}
+footer a:hover {
+    color: #2ca9e4;
+}
+span#dotted-line {
+    border-top: 2px dotted #ebe3ac;
+    display: block;
+    height: 1px;
+    left: 356px;
+    position: relative;
+    top: 215px;
+    width: 700px;
+}
+#related p:hover {
+    color: #ffa500;
+}
+#related {
+    color: #888fff;
+    font-size: 13px;
+    position: absolute;
+}
+#related text:hover {
+    color: #ff0000;
+}
+#related text {
+    color: #888888;
+    font-size: 19px;
+    line-height: 3;
+}
+#featured p:hover {
+    color: #ffa500;
+}
+#featured {
+    color: #888fff;
+    font-size: 13px;
+    position: absolute;
+    right: 0;
+}
+#featured text:hover {
+    color: #ff0000;
+}
+#featured text {
+    color: #888888;
+    font-size: 19px;
+    line-height: 3;
+}
+footer div[label] {
+    color: #888fff;
+    float: left;
+    font-size: 13px;
+    height: 100px;
+    left: 178px;
+    position: relative;
+    text-decoration: none;
+    top: 130px;
+    width: 159px;
+}
+#footer-contact img[src] {
+    height: 39px;
+    left: 50px;
+    position: absolute;
+    top: -106px;
+    width: 54px;
+}
+#bottom {
+    bottom: 5px;
+    left: 534px;
+}
+div.row img[src] {
+    background-color: #000000;
+    height: 150px;
+    width: 320px;
+}
+div.row {
+    bottom: 281px;
+    position: absolute;
+}
+/* Services page */
+#container{display:block;
+position:absolute;
+width:950px;
+}
+
+section[class]{display:inline
+word-wrap:break-word;
+}

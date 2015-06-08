@@ -1,0 +1,40 @@
+html, body, div, span, h1, h2, h3, h4, h5, h6, p, address, em, strong, b, i, ol, ul, li, fieldset, form, article, aside, footer, header, menu, nav, section{background:transparent;border:0;font-size:100%;margin:0;outline:0;padding:0;vertical-align:baseline;}
+body{line-height:1;}
+article, aside, footer, header, nav, section{display:block;}
+ol, ul,{list-style:none;}
+a:hover, a:active, a:focus{outline:none;}
+body{color:#777; font:14px/20px Arial, Helvetica, sans-serif;}
+html{background-clor:#ebebeb;}
+#container{margin:0 auto; width:950px; background-color:#fff; padding:0px 45px 0px 55px; margin-top:25px; margin-bottom:25px; text-align:left; border:1px solid #999; border:1px dotted #2ba9e3;}
+article{clear:both; padding-top:10px;}
+section{background:#fff; margin-bottom:10px;}
+section  h3{font-weight:normal; font-size:19px; padding:0px 15px 10px 0px;}
+section p{padding:0px 15px 10px 0px; text-align:justify; font-size:0.9em; color2:#000;}
+section a{color:#2ca9e4; text-decoration:none;}
+section p a, section li a, section h1 a{padding:1px;}
+section .dashes {border-top: 2px dotted #2ba9e3; float:left; width:930px; margin-bottom:20px;}
+header a{color:#2ba9e3; text-decoration:none;}
+header a:hover{color:#2ba9e3;}
+header  .styled-text{color:#2ba9e3; padding-right:10px;}
+header .bold{font-weight:blod;}
+header #logo{background:url} "images/logo.jpg" top-left no-repeat; display:inline-block; float:left; height:74px; margin:24px 0px 16px 0px; text-indent:-9999px; width:331px;}
+header a:hover h1{background-position:bottom left;}
+header .page-title{float:left; margin:30px 0px 0px 110px; width:500px;}
+header img{padding:8px; float:right;}
+nav {clear:both;background-color:#2ca9e4;}
+nav ul{background-color:#2ca9e4;}
+nav ul li{float:left;background-color:#2ca9e4;}
+nav ul li a{background-color:#000000; color:#fff; display:block; font-weight:normal; height:27px; padding:5px 40px 0px 28px; text-decoration:none;}
+nav ul li a:hover{background:#e6e6e6; color:#000;}
+nav ul li a:active{height:32px; padding-top:7px;}
+nav li a.nav-on, nav li a.nav-on:hover{background:#e6e6e6;color:#000;cursor:default;}
+footer{background:#fff; margin-top:40px; margin-bottom:0px; padding:10px 0px 30px 0px; border-top:2px dotted #2ba9e3; background-repeat:repeat-x; clear:both;}
+#footer-text p{text-align:center; font-size:0.9em;}
+footer a{color:#2ca9e4; text-decoration:none;}
+footer a:hover{color:#2ca9e4; }
+section .slider{text-align:center;}
+section .intro-text{float:left;}
+section .bottom-advert{text-align:center;}
+.left{float:left; background:#fff; width:295px; padding:0px 15px 10px 0px; color:#292929; margin-top:0px; margin-bottom:0px; text-align:justify; font-size:13px;}
+.center{float:left; background:#fff; width:295px; padding:0px 15px 10px 0px; color:#292929; margin-top:0px; margin-bottom:0px; text-align:justify; font-size:13px;}
+.right{float:right;/*sets this column to the right*/ background:#fff; width:295px; padding:0px 15px 10px 0px; color:#292929; margin-top:0px; margin-bottom:0px; text-align:justify; font-size:13px;}                                                                                                                                                                                       
